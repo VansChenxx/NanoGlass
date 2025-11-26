@@ -1,0 +1,5 @@
+{
+  "name": "NanoGlass 插画生成器",
+  "description": "一个专门的生成式 AI 工具，用于创建具有特定材质调色板的未来主义插画：60% 色散玻璃，30% 银/石膏，以及 10% 青色点缀。",
+  "requestFramePermissions": []
+}
